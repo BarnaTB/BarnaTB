@@ -2,6 +2,9 @@
 
 `git config --global user.name "Barnabas Tumuhairwe"`
 
+## 😄 Pronouns: ...
+- he/him
+
 ## ⚡ Fun fact: ...
 
 ```py
@@ -11,9 +14,6 @@ favorite_soccer_club = "I'm a big fan of Arsenal FC"
 
 print(f"{primary_stack}\n{fun_fact}\n{favorite_soccer_club}")
 ```
-
-## 😄 Pronouns: ...
-- he/him
 
 ## 🔭 I'm currently working with ...
 

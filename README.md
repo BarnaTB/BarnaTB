@@ -23,7 +23,7 @@ print(f"{primary_stack}\n{fun_fact}\n{favorite_soccer_club}")
 <!-- ![fastapi-1](https://user-images.githubusercontent.com/38134382/156886521-2ece8053-c220-4a04-8bb4-338b638bc994.svg) -->
 
 ## 🌱 I’m currently learning ...
-<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)">
+<img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 ## 💬 Sometimes I write ...
 
